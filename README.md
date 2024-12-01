@@ -15,11 +15,6 @@ Install the following requirements:
 4. seaborn
 5. tensorboard
 
-## Installation
-
-```
-
-```
 
 ## Train
 
